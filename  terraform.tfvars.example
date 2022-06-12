@@ -1,0 +1,3 @@
+do_token="<your-digitalocean-token>"
+k8s_name="<your-cluster-name>"
+region="<your-cluster-region>"
